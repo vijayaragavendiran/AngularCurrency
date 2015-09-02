@@ -1,0 +1,2 @@
+# AngularCurrency
+Currency DIrective
